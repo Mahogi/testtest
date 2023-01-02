@@ -1,3 +1,5 @@
-let message: string = 'Hello, World!';
+const message: string = 'Hello, World!';
 console.log(message);
-console.log("lalalala");
+console.log('lalal  alalalala234324');
+
+const aaa = 5 + 7;
